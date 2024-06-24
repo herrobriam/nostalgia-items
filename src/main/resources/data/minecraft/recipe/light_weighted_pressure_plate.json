@@ -2,13 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "minecraft:polished_blackstone"
+      "item": "minecraft:gold_ingot"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "item": "minecraft:polished_blackstone_pressure_plate"
+    "item": "minecraft:light_weighted_pressure_plate"
   }
 }

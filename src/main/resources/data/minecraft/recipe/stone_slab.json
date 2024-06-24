@@ -1,14 +1,15 @@
 {
   "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
   "key": {
     "#": {
       "item": "minecraft:stone"
     }
   },
-  "pattern": [
-    "##"
-  ],
   "result": {
-    "item": "minecraft:stone_pressure_plate"
+    "id": "minecraft:smooth_stone_slab",
+    "count": 6
   }
 }
