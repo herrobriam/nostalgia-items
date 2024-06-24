@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "nostalgia-items",
+	"version": "${version}",
+	"name": "Nostalgia Items",
+	"description": "Bring back classic crafting recipes and item names.",
+	"authors": [
+		"herrobriam"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/project/nostalgia-items/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/nostalgia-items/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.herrobriam.nostalgiaitems.NostalgiaItems"
+		],
+		"fabric-datagen": [
+			"net.herrobriam.nostalgiaitems.NostalgiaItemsDataGenerator"
+		]
+	},
+	"mixins": [
+		"nostalgia-items.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": ">=1.18 <=1.20.4",
+		"java": ">=11"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
