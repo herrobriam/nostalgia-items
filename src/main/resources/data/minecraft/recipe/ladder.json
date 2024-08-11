@@ -12,6 +12,7 @@
   },
   "result": {
     "id": "minecraft:ladder",
+    "item": "minecraft:ladder",
     "count": 1
   }
 }

@@ -15,6 +15,7 @@
     }
   },
   "result": {
-    "id": "minecraft:red_bed"
+    "id": "minecraft:red_bed",
+    "item": "minecraft:red_bed"
   }
 }

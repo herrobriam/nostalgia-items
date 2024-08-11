@@ -16,6 +16,7 @@
   },
   "result": {
     "id": "minecraft:oak_sign",
+    "item": "minecraft:oak_sign",
     "count": 3
   }
 }

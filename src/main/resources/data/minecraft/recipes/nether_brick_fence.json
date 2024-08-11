@@ -9,11 +9,12 @@
     }
   },
   "pattern": [
-    "W#W",
-    "W#W"
+    "###",
+    "###"
   ],
   "result": {
-    "count": 6,
-    "item": "minecraft:nether_brick_fence"
+    "count": 1,
+    "item": "minecraft:nether_brick_fence",
+    "id": "minecraft:nether_brick_fence"
   }
 }
